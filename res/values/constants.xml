@@ -92,4 +92,7 @@
 
     <!-- Generic reveal view animation duration -->
     <integer name="reveal_view_animation_duration">300</integer>
+
+    <!-- Preference keys for user-visible settings -->
+    <bool name="show_emoticons_pref_default" translatable="false">true</bool>
 </resources>
